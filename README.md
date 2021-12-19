@@ -1,2 +1,2 @@
-# artos
+# Artos
 Token Artos
