@@ -4,5 +4,3 @@ Artos is a Token Product from PT. Artos Digital Sejahtera is built on the Binanc
 We believe in the sharing economy and decentralization, which is why we will develop and create the next generation of tools and platforms for miners and digital asset trading.
 
 Partnering with the world's largest mining company like Nicehash we believe in delivering and delivering user experiences at the best possible security.
-
-
