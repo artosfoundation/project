@@ -13,7 +13,9 @@
 ### ABOUT US
 Artos is a Token Product from PT. Artos Digital Sejahtera is built on the Binance Smart Chain (BSC) Network. Founded in 2021 with the aim of creating an educational platform for digital asset trading, mining, and creating other digital products
 
-**Contract Adress :** **[0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1](https://bscscan.com/address/0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1#code)**
+**Contract Adress :** **[0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1](https://bscscan.com/address/0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1#code)**<br>
+**Contract :** **[Artos.sol](https://github.com/artosfoundation/artostoken/blob/main/contract.sol)**
+
 
 | Artos Links : | [Web](https://artostoken.net/) | [Dapp](https://dapp.artostoken.net/) | [Mining](https://mining.artostoken.net/) | [NFT](https://nft.artostoken.net/) | [Vision](https://vision.artostoken.net/) |
 |---|---|---|---|---|---|
