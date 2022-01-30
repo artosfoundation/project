@@ -2,11 +2,11 @@
 
 <a href="https://artostoken.net/"><img align="right" width="150" src="https://artostoken.net/assets/front/img/61f32478dc1f5.png?raw=true" alt="Artos logo" /></a>
 
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fartostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Wallet&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fdapp.artostoken.net%2F">
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fartostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Wallet&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fdapp.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Mining&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fmining.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=NFT&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fnft.artostoken.net%2F">
 
 
 [![Website](https://img.shields.io/badge/web-artos-blue.svg?style=flat-square)](http://artostoken.net/)
-[![Chat](https://img.shields.io/badge/chat-chat%2eartostoken%2enet-blue.svg?style=flat-square)](https://t.me/artos_official)
+[![Chat](https://img.shields.io/badge/chat-artos_official-blue.svg?style=flat-square)](https://t.me/artos_official)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/artos_official.svg?style=social&label=Follow)](https://twitter.com/artos_official)
 
