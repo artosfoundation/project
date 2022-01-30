@@ -25,5 +25,4 @@ Artos is a Token Product from PT. Artos Digital Sejahtera is built on the Binanc
 |---|---|---|---|---|---|
 
 
-
 Copyright (C) 2021, Artos Foundation
