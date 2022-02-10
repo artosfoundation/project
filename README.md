@@ -14,7 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/artos_official.svg?style=social&label=Follow)](https://twitter.com/artos_official)
 
 ## PROJECT
-[![Main Web](https://artostoken.net/assets/front/img/61f32478dc1f5.png)](https://artostoken.net/)
+[![Main Web](https://web.artostoken.net/wp-content/uploads/2022/02/Artos-Edu-etc-e1644264689391.png)](https://artostoken.net/)
 
 ### ABOUT US!
 
