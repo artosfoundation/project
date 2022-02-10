@@ -4,7 +4,7 @@
 
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fartostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Wallet&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fdapp.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Mining&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fmining.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=NFT&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fnft.artostoken.net%2F">
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=SALE-ICO&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fsale.artostoken.net%2F">
-
+<img alt="GitHub" src="https://img.shields.io/github/license/artosfoundation/artoscontract.sol">
 
 [![Website](https://img.shields.io/badge/web-artos-blue.svg?style=flat-square)](http://artostoken.net/)
 [![Chat](https://img.shields.io/badge/chat-artos_official-blue.svg?style=flat-square)](https://t.me/artos_official)
