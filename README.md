@@ -14,7 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/artos_official.svg?style=social&label=Follow)](https://twitter.com/artos_official)
 
 ## PROJECT
-[![Main Web](https://web.artostoken.net/wp-content/uploads/2022/02/Artos-Edu-etc-e1644264689391.png)](https://artostoken.net/)
+[![Main Web](https://artostoken.net/images/artos2.png)](https://artostoken.net/)
 
 ### ABOUT US!
 
@@ -27,5 +27,16 @@ Artos is a Token Product from PT. Artos Digital Sejahtera is built on the Binanc
 | Artos Links : | [Web](https://artostoken.net/) | [Dapp](https://dapp.artostoken.net/) | [Mining](https://mining.artostoken.net/) | [NFT](https://nft.artostoken.net/) | [Vision](https://vision.artostoken.net/) |[Community](https://community.artostoken.net/) |
 |---|---|---|---|---|---|---|
 
+## MIGRATION ARTOS TOKEN
+
+Consolidate your Artos V1 to Artos V2!
+
+We just upgraded our contract to V2. Conversion to V2 will be required to procure the right Artos to derive value from our ecosystem and smart contracts going forward.
+
+What is Artos V2 ️❓
+
+Simply put, Artos V2 is version 2 of the Artos Token Smart Contract. We have increased the flexibility, security, tax value and accessibility of traditional Artos tokens by adding mechanisms that will allow Artos to be used more widely in our ecosystem and future partners. These improvements will allow Artos to be more scalable and interoperable in the cryptocurrency landscape.
+
+**More Information Please Visit :** **[Migration Artos Token](https://artostoken.net/migration/)**<br>
 
 Copyright (C) 2021, Artos Foundation
