@@ -37,6 +37,9 @@ What is Artos V2 ️❓
 
 Simply put, Artos V2 is version 2 of the Artos Token Smart Contract. We have increased the flexibility, security, tax value and accessibility of traditional Artos tokens by adding mechanisms that will allow Artos to be used more widely in our ecosystem and future partners. These improvements will allow Artos to be more scalable and interoperable in the cryptocurrency landscape.
 
+| Migration : | [0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1 - Old](https://bscscan.com/address/0xc1bf8d85F46afea4B44E89257B45567Bf838F0d1#code) | [0x1EA004397Bd1F8fa68B787FbA084BD7479f32872 - New](https://bscscan.com/address0x1EA004397Bd1F8fa68B787FbA084BD7479f32872#code) |
+|---|---|---|
+
 **More Information Please Visit :** **[Migration Artos Token](https://artostoken.net/migration/)**<br>
 
 Copyright (C) 2021, Artos Foundation
