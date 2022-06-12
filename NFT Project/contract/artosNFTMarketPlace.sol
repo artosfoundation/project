@@ -4,8 +4,8 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
-import "./NFT.sol";
-import "./Token.sol";
+import "./artosNFT.sol";
+import "./artosTokenNFT.sol";
 
 contract artosNFTMarketPlace is ReentrancyGuard {
 
