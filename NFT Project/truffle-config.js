@@ -27,9 +27,9 @@ module.exports = {
 
   plugins: ['truffle-plugin-verify'],
   api_keys: {
-    bscscan: 'BKRXCSR2VN2FABMPPHJSFT8N5XSVFWDGXF',
-    polygonscan: 'Y7RMEKJ9P2Z92GGQDTXR11SSVGH7FAUACC',
-    etherscan: 'BYE9NYCIWY1Y9FNMEADHYXFIYKPAW1W8SR'
+    bscscan: 'YOUR_API',
+    polygonscan: 'YOUR_API',
+    etherscan: 'YOUR_API'
   },
   /**
    * Networks define how you connect to your ethereum client and let you set the
