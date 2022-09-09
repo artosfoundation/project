@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/web-artos-blue.svg?style=flat-square)](http://artostoken.net/)
 [![Chat](https://img.shields.io/badge/chat-artos_official-blue.svg?style=flat-square)](https://t.me/artos_official)
 
-<img alt="GitHub" src="https://img.shields.io/github/license/artosfoundation/artoscontract.sol">
+<img alt="GitHub" src="https://img.shields.io/github/license/artosfoundation/smartcontract-bsc.sol">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/artos_official.svg?style=social&label=Follow)](https://twitter.com/artos_official)
 
