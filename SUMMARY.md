@@ -16,6 +16,7 @@
 ## PROJECT
 
 * [🪙 TOKEN ARTOS](project/token-artos/README.md)
+  * [📃 SMART CONTRACT](project/token-artos/smart-contract.md)
   * [☢ Tokenomic](project/token-artos/tokenomic.md)
   * [📣 Ecosystem](project/token-artos/ecosystem.md)
   * [🛣 ROADMAP](project/token-artos/roadmap.md)
