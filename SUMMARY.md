@@ -28,7 +28,7 @@
 
 ## ⚠ WARNING
 
-* [⚠ Risk Disclaimer](warning/requesting-time-off.md)
+* [⚠ Risk Disclaimer](policies/requesting-time-off.md)
 
 ## LINK
 
