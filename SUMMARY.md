@@ -12,6 +12,7 @@
 * [👨💻 Team](about-us/team.md)
 * [© Legal Company](about-us/legal-company.md)
 * [☀ Abstract](about-us/abstract.md)
+* [📄 Whitepaper](about-us/whitepaper.md)
 
 ## PROJECT
 
