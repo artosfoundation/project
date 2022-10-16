@@ -21,6 +21,10 @@
   * [📣 Ecosystem](project/token-artos/ecosystem.md)
   * [🛣 ROADMAP](project/token-artos/roadmap.md)
 * [💰 DAPP WALLET](project/dapp-wallet.md)
+* [NFT](project/nft.md)
+* [FARMING & STAKING](project/farming-and-staking.md)
+* [MARKETPLACE](project/marketplace.md)
+* [CRYPTO SAVING](project/crypto-saving.md)
 
 ## Policies
 
