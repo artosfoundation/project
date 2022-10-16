@@ -24,3 +24,9 @@
 ## Policies
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
+
+## LINK
+
+* [📰 News](link/news.md)
+* [🗃 Dapp Wallet](link/dapp-wallet.md)
+* [💞 Obrol](link/obrol.md)
