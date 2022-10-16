@@ -68,3 +68,5 @@ Our wallet is a non-custodial wallet. How it works [https://www.blockchain.com/l
 yes, transactions are sent directly to the network
 
 </details>
+
+{% embed url="https://dapp.artostoken.net/#/" %}
