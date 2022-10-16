@@ -9,8 +9,8 @@
   * [Mission](about-us/vision-mission-and-goals/mission.md)
   * [Goals](about-us/vision-mission-and-goals/goals.md)
 * [💖 Feature](about-us/feature.md)
-* [👨💻 Team](about-us/team.md)
-* [© Legal Company](about-us/legal-company.md)
+* [👨💻 👨💻 Team](about-us/team.md)
+* [© © Legal Company](about-us/legal-company.md)
 * [☀ Abstract](about-us/abstract.md)
 
 ## PROJECT
@@ -18,6 +18,7 @@
 * [🪙 TOKEN ARTOS](project/token-artos/README.md)
   * [☢ Tokenomic](project/token-artos/tokenomic.md)
   * [📣 Ecosystem](project/token-artos/ecosystem.md)
+  * [🛣 ROADMAP](project/token-artos/roadmap.md)
 
 ## Policies
 
