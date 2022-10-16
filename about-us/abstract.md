@@ -1,19 +1,8 @@
----
-cover: .gitbook/assets/bg1.png
-coverY: 37.53010279001468
----
+# ☀ Abstract
 
-# 🤝 Welcome to Artos Token
+We Build Platform Based on Real Experience and Observation
 
-{% hint style="success" %}
-<mark style="color:yellow;">**Artos**</mark> Your Future Asset Solution
-{% endhint %}
-
-**ARTOS** is Digital Asset of _**PT. Artos Digital Sejahtera**_ which was established in 2022 in Indonesia
-
-<mark style="color:yellow;">**Artos is DeFi Token**</mark> that is backed by the community to form a strong foundation, developed with Binance Smart Chain (BSC) Network wich is a means to leverage solidity-based smart contract with speed and efficiency that is far better than other
-
-We Build Platform Based on Real Experience and Observation Artos is a Community focused DeFi Token.
+Artos is a Community focused DeFi Token.
 
 Armed with experience in the crypto world, observation and a strong determination to create a platform that can be used by all groups as a tool to facilitate transactions and business, Artos was created as a bridge for that purpose.
 
