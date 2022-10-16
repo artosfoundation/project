@@ -9,10 +9,12 @@
 
 
 حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيْلُ نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيْرُ
+لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيْمِ
 
-*********
-Artos Token
+*
+Token Artos
 Author : Artos Digital Sejahtera
+Menuju Indonesia Digital
 */
 
 // SPDX-License-Identifier: MIT
@@ -610,7 +612,7 @@ contract BEP20 is Context, IBEP20, Ownable {
     constructor(string memory name, string memory symbol) public {
         _name = name;
         _symbol = symbol;
-        _decimals = 18;
+        _decimals = 4;
     }
 
     /**
@@ -870,8 +872,8 @@ contract BEP20 is Context, IBEP20, Ownable {
     }
 }
 
-// ArtosToken with Governance.
-contract ArtosToken is BEP20('Artos Token', 'ARTOS') {
+// Artos with Governance.
+contract Artos is BEP20('Artos', 'ARTOS') {
     /// @notice Creates `_amount` token to `_to`. Must only be called by the owner (MasterChef).
     function mint(address _to, uint256 _amount) public onlyOwner {
         _mint(_to, _amount);
