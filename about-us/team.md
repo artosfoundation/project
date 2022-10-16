@@ -8,31 +8,31 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/ayi" alt="Abdul Hayyi"><figcaption><p><strong>H. Abdul Hayyi (Ceo)</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ayi.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/tio" alt=""><figcaption><p>MA Prasetyo (Coo)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tio.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/omjen" alt=""><figcaption><p>J Zainudin (CMO)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/omjen.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/dirjal" alt=""><figcaption><p>Dirjal Hayat (CTO)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dirjal.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Key Aaron" alt=""><figcaption><p>Key Aaron (CTO)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Key Aaron.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/subki" alt=""><figcaption><p>S Akbar (Legal Official)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/subki.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/rio" alt=""><figcaption><p>Rio (Marketing)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/rio.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
