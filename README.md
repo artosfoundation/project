@@ -1,22 +1,31 @@
----
-cover: .gitbook/assets/bg1.png
-coverY: 37.53010279001468
----
+# ARTOS TOKEN
 
-# 🤝 Welcome to Artos Token
+<a href="https://artostoken.net/"><img align="right" width="100" src="https://1593371435-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMeXg815S6IAHAKRbuW2H%2Fuploads%2FRkm8iwgiRB8EF9YydkoB%2Fartos-logo-tw.png?alt=media&token=dfe47bab-47da-4def-8bef-0293e0cdda25?raw=true" alt="Artos logo" /></a>
 
-{% hint style="success" %}
-<mark style="color:yellow;">**Artos**</mark> Your Future Asset Solution
-{% endhint %}
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fartostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=dapp&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fdapp.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Mining&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Famc.artostoken.net%2F"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=NFT&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fnft.artostoken.net%2F"> <img alt="Community" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Community&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fcommunity.artostoken.net%2F"> <img alt="News" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=News&logo=wallet&up_color=green&up_message=Online&url=https%3A%2F%2Fartostoken.com%2F">
 
-**ARTOS** is Digital Asset of _**PT. Artos Digital Sejahtera**_ which was established in 2022 in Indonesia
 
-<mark style="color:yellow;">**Artos is DeFi Token**</mark> that is backed by the community to form a strong foundation, developed with Binance Smart Chain (BSC) Network wich is a means to leverage solidity-based smart contract with speed and efficiency that is far better than other
+[![Website](https://img.shields.io/badge/web-artos-blue.svg?style=flat-square)](http://artostoken.net/)
+[![Chat](https://img.shields.io/badge/chat-artos_official-blue.svg?style=flat-square)](https://t.me/artos_official)
 
-We Build Platform Based on Real Experience and Observation Artos is a Community focused DeFi Token.
+[![Twitter Follow](https://img.shields.io/twitter/follow/artos_official.svg?style=social&label=Follow)](https://twitter.com/artos_official)
 
-Armed with experience in the crypto world, observation and a strong determination to create a platform that can be used by all groups as a tool to facilitate transactions and business, Artos was created as a bridge for that purpose.
+# ![logo-wallet](https://user-images.githubusercontent.com/96391739/189418095-1edbb5e6-914a-4ca9-8481-f75642117012.png) ARTOS TOKEN
 
-We believe in the sharing economy and decentralization, which is why we will develop and create the next generation of tools and platforms for miners and digital asset trading.
+Artos is DeFi Token that is backed by the community to form a strong foundation, developed with Binance Smart Chain (BSC) Network wich is a means to leverage solidity-based smart contract with speed and efficiency that is far better than other.
+## Documentation
+- [Documentation](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/)
+- [About](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/artos-token)
+- [Roadmap](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/roadmap)
+- [Smart Contract](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/artos-project/token-contract)
+## Smart Contract
+Artos Token Smart Contract With **BSC Network**
 
-The uniqueness of Artos token lies in the transaction system that provides automatic reflection to each holder so that holders have the opportunity to get automatic rewards for each token they store in the wallet, besides that Artos has a Wallet dapp application that is integrated into their Main Wallet such as Trust Wallet, Metamask , or Safepal so that holders can perform transactions, swaps, exchanges and automated staking.
+```sh
+0x7cf3c5867b052251f56103fd3c35de1076484327
+```
+Artos Token Smart Contract With **Matic Network**
+
+```sh
+0x7cf3c5867b052251f56103fd3c35de1076484327
+```
