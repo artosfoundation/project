@@ -26,9 +26,9 @@
 * [MARKETPLACE](project/marketplace.md)
 * [CRYPTO SAVING](project/crypto-saving.md)
 
-## Policies
+## ⚠ WARNING
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [⚠ Risk Disclaimer](warning/requesting-time-off.md)
 
 ## LINK
 
