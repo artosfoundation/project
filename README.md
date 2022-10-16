@@ -14,10 +14,9 @@
 
 Artos is DeFi Token that is backed by the community to form a strong foundation, developed with Binance Smart Chain (BSC) Network wich is a means to leverage solidity-based smart contract with speed and efficiency that is far better than other.
 ## Documentation
-- [Documentation](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/)
-- [About](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/artos-token)
-- [Roadmap](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/roadmap)
-- [Smart Contract](https://artos-foundation.gitbook.io/artos-digital-sejahtera-1/artos-project/token-contract)
+- [Documentation](https://artos-foundation.gitbook.io/token-artos/)
+- [About]https://artos-foundation.gitbook.io/token-artos/project/token-artos)
+- [Smart Contract](https://artos-foundation.gitbook.io/token-artos/project/token-artos)
 ## Smart Contract
 Artos Token Smart Contract With **BSC Network**
 
