@@ -20,6 +20,7 @@
   * [☢ Tokenomic](project/token-artos/tokenomic.md)
   * [📣 Ecosystem](project/token-artos/ecosystem.md)
   * [🛣 ROADMAP](project/token-artos/roadmap.md)
+* [💰 DAPP WALLET](project/dapp-wallet.md)
 
 ## Policies
 
