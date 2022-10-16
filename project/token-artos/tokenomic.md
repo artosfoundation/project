@@ -12,6 +12,6 @@ Pancake Swap Allocation is 30% Gradually As per Token Sale and locked for 5 Year
 
 In addition, the Developer and Founder will allocate a total of 10% for the preparation of registration to the stock exchange.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/token alocation.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://artostoken.net/#token" %}
