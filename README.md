@@ -22,10 +22,10 @@ Artos is DeFi Token that is backed by the community to form a strong foundation,
 Artos Token Smart Contract With **BSC Network**
 
 ```sh
-0xb6a185ADf816944118D324CE88ed3fAf19d19A72
+0x7cf3c5867b052251f56103fd3c35de1076484327
 ```
 Artos Token Smart Contract With **Matic Network**
 
 ```sh
-0x5D1EfeE52C6eB7288e3fddd1A52EfA7230c133eA
+0x7cf3c5867b052251f56103fd3c35de1076484327
 ```
