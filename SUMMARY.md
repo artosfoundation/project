@@ -30,3 +30,4 @@
 * [📰 News](link/news.md)
 * [🗃 Dapp Wallet](link/dapp-wallet.md)
 * [💞 Obrol](link/obrol.md)
+* [AMC](link/amc.md)
