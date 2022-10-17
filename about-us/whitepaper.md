@@ -87,3 +87,7 @@ In addition to using the BSC Network, we are also developing Artos with a Matic 
 <figure><img src="../.gitbook/assets/NPWP ARTOS.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+### ECOSYSTEM
+
+<figure><img src="../.gitbook/assets/eco2.png" alt=""><figcaption></figcaption></figure>
