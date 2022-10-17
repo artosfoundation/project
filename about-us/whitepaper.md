@@ -91,3 +91,27 @@ In addition to using the BSC Network, we are also developing Artos with a Matic 
 ### ECOSYSTEM
 
 <figure><img src="../.gitbook/assets/eco2.png" alt=""><figcaption></figcaption></figure>
+
+### PROJECT
+
+<figure><img src="../.gitbook/assets/project.png" alt=""><figcaption></figcaption></figure>
+
+Linkage The relationship between the project and the ecosystem is very important, Artos develops real projects that will be needed by each individual or group.
+
+With a good Ecosystem, it is hoped that it will produce a good project. Likewise, an Ecosystem without a project will not be able to work according to its flow.
+
+### DECENTRALIZATION
+
+Artos Token Centered on the development of the DeFi Token, which is a direct transaction system with the main blockchain network without any intermediaries
+
+### FEATURE
+
+{% content-ref url="feature.md" %}
+[feature.md](feature.md)
+{% endcontent-ref %}
+
+{% content-ref url="../project/dapp-wallet.md" %}
+[dapp-wallet.md](../project/dapp-wallet.md)
+{% endcontent-ref %}
+
+{% file src="../.gitbook/assets/NEW WHITEPAPER ARTOS.pdf" %}
