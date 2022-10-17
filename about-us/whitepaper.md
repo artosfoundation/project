@@ -49,3 +49,41 @@ Artos chose the Binance Smart Chain Main Network as a means to leverage solidity
 BSC itself has become one of the most widely used blockchains for decentralized finance (DeFi), BSC uses a token protocol developed by the Binance Team called BEP-20 which is known for its block speed of 5 seconds which is much faster than blocks on other networks on average. speed 1 to 2 minutes.
 
 In addition to using the BSC Network, we are also developing Artos with a Matic Network with the same goal, namely network stability and speed, besides that, Artos will use the Matic Network in NFT Development.
+
+### TOKEN DETAILS
+
+| Token Name | : Token Artos                                |
+| ---------- | -------------------------------------------- |
+| Symbol     | : ARTOS                                      |
+| Decimal    | : 4                                          |
+| Contract   | : 0x7cf3c5867b052251f56103fd3c35de1076484327 |
+| Suply      | : 100.000.000.000                            |
+| Network    | : BSC                                        |
+
+{% content-ref url="../project/token-artos/tokenomic.md" %}
+[tokenomic.md](../project/token-artos/tokenomic.md)
+{% endcontent-ref %}
+
+### ALOCATION
+
+<figure><img src="../.gitbook/assets/token alocation.png" alt=""><figcaption></figcaption></figure>
+
+### LEGALITY
+
+<div>
+
+<figure><img src="../.gitbook/assets/SK-Menhumham Artos.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/NIB ARTOS_001.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/NIB ARTOS_002.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/NPWP ARTOS.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
