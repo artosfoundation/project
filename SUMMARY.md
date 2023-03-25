@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🤝 Welcome to Artos Token](README.md)
+* [🤝 BRAND](readme-1.md)
 
 ## About us
 
