@@ -20,9 +20,9 @@ In addition to using the BSC Network, we are also developing Artos with a Matic 
 2. Symbol : ARTOS
 3. Decimal : 4
 4. Suply : 100.000.000.000 ARTOS
-5. Smart Contract : [_<mark style="color:yellow;">**0x7cf3c5867b052251f56103fd3c35de1076484327**</mark>_](https://bscscan.com/address/0x7cf3c5867b052251f56103fd3c35de1076484327)_<mark style="color:yellow;">****</mark>_
+5. Smart Contract : [_<mark style="color:yellow;">**0x7cf3c5867b052251f56103fd3c35de1076484327**</mark>_](https://bscscan.com/address/0x7cf3c5867b052251f56103fd3c35de1076484327)
 
-_<mark style="color:yellow;">****</mark>_
+
 
 </details>
 
@@ -32,6 +32,6 @@ _<mark style="color:yellow;">****</mark>_
 
 1. Token Name : Artos NFT
 2. Symbol : artosNFT
-3. Smart Contract : [_<mark style="color:yellow;">**0x7cf3c5867b052251f56103fd3c35de1076484327**</mark>_](https://bscscan.com/address/0x7cf3c5867b052251f56103fd3c35de1076484327)_<mark style="color:yellow;">****</mark>_
+3. Smart Contract : [_<mark style="color:yellow;">**0x7cf3c5867b052251f56103fd3c35de1076484327**</mark>_](https://bscscan.com/address/0x7cf3c5867b052251f56103fd3c35de1076484327)
 
 </details>
